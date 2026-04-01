@@ -1,6 +1,6 @@
 ## IT Tickets Sql
 
-This project analyses IT support tickets across departments to identify recurring issues and root causes using sql, sqlite and python.
+This project analyses IT support tickets across departments to identify recurring issues and root causes using sql (sqlite) and python.
 
 ### Data Model
 
